@@ -1,4 +1,4 @@
 {
   "gültige_keys": ["key123", "key456", "key789", "key101", "key112"],
-  "verwendete_keys": []
+  "verwendete_keys": ["key123"]
 }
