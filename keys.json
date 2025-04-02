@@ -1,16 +1,1 @@
-{
-  "gültige_keys": {
-    "KEY12345": {
-      "type": "lifetime"
-    },
-    "KEY67890": {
-      "type": "expiry",
-      "expiry_date": "2025-04-04" 
-    },
-    "KEYABCDE": {
-      "type": "expiry",
-      "expiry_date": "2023-11-15"
-    }
-  },
-  "verwendete_keys": {}
-}
+{"g\u00fcltige_keys": {"KEY12345": {"type": "lifetime"}, "KEY67890": {"type": "expiry", "expiry_date": "2025-04-04"}, "KEYABCDE": {"type": "expiry", "expiry_date": "2023-11-15"}}, "verwendete_keys": {"KEY67890": "83eae338e25ce040ab3f9ea6fa605ffa"}}
