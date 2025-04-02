@@ -1,10 +1,1 @@
-{
-  "gültige_keys": [
-    "ABC-123-DEF-456",
-    "GHI-789-JKL-012",
-    "MNO-345-PQR-678",
-    "STU-901-VWX-234",
-    "YZA-567-BCD-890"
-  ],
-  "verwendete_keys": {}
-}
+{"g\u00fcltige_keys": ["ABC-123-DEF-456", "GHI-789-JKL-012", "MNO-345-PQR-678", "STU-901-VWX-234", "YZA-567-BCD-890"], "verwendete_keys": {"ABC-123-DEF-456": "4f245c5e5cb52f1e4d01a21468cff17f"}}
