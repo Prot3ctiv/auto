@@ -1,4 +1,10 @@
 {
-  "gültige_keys": ["key123", "key456", "key789", "key101", "key112"],
-  "verwendete_keys": ["key123"]
+  "gültige_keys": [
+    "ABC-123-DEF-456",
+    "GHI-789-JKL-012",
+    "MNO-345-PQR-678",
+    "STU-901-VWX-234",
+    "YZA-567-BCD-890"
+  ],
+  "verwendete_keys": {}
 }
